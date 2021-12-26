@@ -1,0 +1,7 @@
+SQLAlchemy
+databases
+DateTime
+passlib
+uuid
+typing
+pydentic
